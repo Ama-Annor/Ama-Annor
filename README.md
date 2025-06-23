@@ -9,19 +9,15 @@
 
 - 🤝 I’m looking for help with **Cloud deployment strategies**
 
-- Portfolio Link [https://portfolio-jet-nine-88.vercel.app/](https://portfolio-jet-nine-88.vercel.app/)
-
 - 💬 Ask me about **Flutter mobile development**
 
 - 📫 How to reach me **maameamaannor@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-jet-nine-88.vercel.app/](https://portfolio-jet-nine-88.vercel.app/)
-
-- ⚡ Fun fact **I love to read and listening to podcasts**
+- ⚡ Fun fact **I love to read and listen to podcasts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ama ansongmaa aseda annor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ama ansongmaa aseda annor" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ama ansongmaa aseda annor](https://www.linkedin.com/in/ama-ansongmaa-aseda-annor/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ama ansongmaa aseda annor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
